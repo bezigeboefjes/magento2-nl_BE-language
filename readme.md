@@ -1,27 +1,27 @@
-# Magento 2 Dutch Language Pack (nl_NL)
+# Magento 2 Dutch (Belgium) Language Pack (nl_BE)
 
-Dutch Magento 2 translations for Magento 2 (CE), translated, optimized forked from Adwise - Your Digital Brain.
+Dutch (Belgium) Magento 2 translations for Magento 2 (CE), translated, optimized by and forked from Adwise - Your Digital Brain.
 
-[![Latest Stable Version](https://poser.pugx.org/adwise/language-nl_nl/v/stable)](https://packagist.org/packages/adwise/language-nl_nl) [![Total Downloads](https://poser.pugx.org/adwise/language-nl_nl/downloads)](https://packagist.org/packages/adwise/language-nl_nl) [![Monthly Downloads](https://poser.pugx.org/adwise/language-nl_nl/d/monthly)](https://packagist.org/packages/adwise/language-nl_nl)
+[![Latest Stable Version](https://poser.pugx.org/bezigeboefjes/language-nl_be/v/stable)](https://packagist.org/packages/bezigeboefjes/language-nl_be) [![Total Downloads](https://poser.pugx.org/bezigeboefjes/language-nl_be/downloads)](https://packagist.org/packages/bezigeboefjes/language-nl_be) [![Monthly Downloads](https://poser.pugx.org/bezigeboefjes/language-nl_be/d/monthly)](https://packagist.org/packages/bezigeboefjes/language-nl_be)
 
 ### Version
-1.2.2
+1.2.2.1
 
 ### Configure Magento backend
 * Activate language (backend): Account > Settings > Account information > Interface Locale
 * Activate language (frontend): Stores > Settings > Configuration > [storeview] > Locale options > Locale
 
 ### Installation (manual)
-* Clone repository to ``app/i18n/bezigeboefjes/nl_nl/`` 
+* Clone repository to ``app/i18n/bezigeboefjes/nl_be/`` 
 * Upgrade Magento installation ``$ php bin/magento setup:upgrade``
 * Clear Magento cache``$ php bin/magento cache:clean``
-* Deploy Static Content ``$ php bin/magento setup:static-content:deploy nl_NL``
+* Deploy Static Content ``$ php bin/magento setup:static-content:deploy nl_BE``
 
 ### Installation (Composer)
-* Require via Composer CLI ``$ composer require bezigeboefjes/language-nl_NL``
+* Require via Composer CLI ``$ composer require bezigeboefjes/language-nl_BE``
 * Upgrade Magento installation ``$ php bin/magento setup:upgrade``
 * Clear Magento cache``$ php bin/magento cache:clean``
-* Deploy Static Content ``$ php bin/magento setup:static-content:deploy nl_NL``
+* Deploy Static Content ``$ php bin/magento setup:static-content:deploy nl_BE``
 
 ### Roadmap
 * Translate missing content (50% left)
