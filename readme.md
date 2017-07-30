@@ -4,9 +4,6 @@ Dutch (Belgium) Magento 2 translations for Magento 2 (CE), translated, optimized
 
 [![Latest Stable Version](https://poser.pugx.org/bezigeboefjes/language-nl_be/v/stable)](https://packagist.org/packages/bezigeboefjes/language-nl_be) [![Total Downloads](https://poser.pugx.org/bezigeboefjes/language-nl_be/downloads)](https://packagist.org/packages/bezigeboefjes/language-nl_be) [![Monthly Downloads](https://poser.pugx.org/bezigeboefjes/language-nl_be/d/monthly)](https://packagist.org/packages/bezigeboefjes/language-nl_be)
 
-### Version
-1.2.2.1
-
 ### Configure Magento backend
 * Activate language (backend): Account > Settings > Account information > Interface Locale
 * Activate language (frontend): Stores > Settings > Configuration > [storeview] > Locale options > Locale
